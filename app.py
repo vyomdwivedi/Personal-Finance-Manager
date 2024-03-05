@@ -119,7 +119,7 @@ def main():
 
         data = {
             "model": "gpt-4",
-            "max_tokens": 100,
+            "max_tokens": 200,
             "messages": [
                 {
                     "role": "system",
